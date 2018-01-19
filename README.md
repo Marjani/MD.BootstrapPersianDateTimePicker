@@ -3,19 +3,17 @@
 ![MD.BootstrapPersianDateTimePicker](https://raw.githubusercontent.com/Mds92/MD.BootstrapPersianDateTimePicker/master/MD.BootstrapPersianDateTimePicker/Content/MD.PersianDateTimePicker1.png "MD.BootstrapPersianDateTimePicker")
 ![MD.BootstrapPersianDateTimePicker](https://raw.githubusercontent.com/Mds92/MD.BootstrapPersianDateTimePicker/master/MD.BootstrapPersianDateTimePicker/Content/MD.PersianDateTimePicker2.png "MD.BootstrapPersianDateTimePicker")
 
-`MD.BootstrapPersianDateTimePicker` is a DateTimePicker plugin for jquery and Bootstrap 3.
+`MD.BootstrapPersianDateTimePicker` is a DateTimePicker plugin for jquery and Bootstrap.
 
-##### Note:<br>
+#####Note:<br>
 **To see demo just open `Demo` folder and run the html files. Don't build the project, it's not a C# project.**
 `MD.BootstrapPersianDateTimePicker` uses bootstrap [Popovers](http://getbootstrap.com/javascript/#popovers), so it has felexibility of bootstrap's popover.
 
 There is a file in `Manual` folder that you can learn how to use this plugin.
 
 ----
-Installing:
-## Install-Package MD.BootstrapPersianDateTimePicker
-## npm install md.bootstrappersiandatetimepicker
-
+Install Using nuget:
+##Install-Package MD.BootstrapPersianDateTimePicker
 There are two approaches to use MdPersianDateTime
 - Use JavaScript and jQuery as another jQuery's plugins.
 You can use the folowing settings for this approach (you can omit them, so the plugin use the default values).
